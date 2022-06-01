@@ -1,0 +1,4 @@
+# vmware OEM passthrough
+acpi.passthru.slic = "TRUE"
+acpi.passthru.slicvendor = "TRUE"
+SMBIOS.reflecthost = "TRUE"
